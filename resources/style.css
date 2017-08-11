@@ -1,0 +1,30 @@
+html{
+  font-size: 12px;
+}
+h1{
+  text-align: center;
+}
+.myhead{
+  height:100vh;
+  background: grey;
+  overflow: hidden;
+}
+.col-md-6{
+  height:100vh;
+}
+.about{
+  overflow: auto;
+}
+.me{
+  background-image: url("img/me.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.article{
+  overflow: auto;
+}
+.contact{
+  background-color: black;
+  height:30rem;
+}
